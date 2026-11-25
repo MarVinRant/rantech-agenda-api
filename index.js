@@ -3,7 +3,7 @@ const app = express();
 const porta = 3000;
 
 app.get("/", (req, res) => {
-  res.json({ message: "RanTech Agenda API funcionando" });
+  res.json({ mensagem: "RanTech Agenda API funcionando" });
 });
 
 app.listen(porta, () => {
