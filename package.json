@@ -1,7 +1,7 @@
 {
   "name": "rantech-agenda-api",
   "version": "1.0.0",
-  "description": "Projeto: RanTech Angeda",
+  "description": "Projeto: RanTech Agenda",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
